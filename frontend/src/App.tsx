@@ -1,6 +1,8 @@
+import Navbar from "components/Navbar";
+
 function App() {
   return (
-    <h1>oi mundo</h1>
+    <Navbar />
   );
 }
 
